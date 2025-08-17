@@ -1,0 +1,127 @@
+p{
+background-color: aqua;
+font-style: italic;
+font-weight: bold;
+
+}
+
+body{
+
+    background-color: #fae3f4;
+}
+
+
+#sporsho{
+    background-color: bisque;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-weight: bolder;
+   color: cyan;
+   border: 1px dashed yellowgreen;
+   text-align: justify;
+   transition: color 1s;
+   width: 50%;
+}
+   
+
+#sporsho:hover{
+color: #ffffff;
+text-shadow: 0 0 10px rgb(26, 26, 26);
+transform:scale(2);
+ }
+.a:hover{
+color: #ffffff;
+text-shadow: 0 0 10px rgb(26, 26, 26);
+transform: rotate(180deg);
+ }
+
+
+.a{ background-color: chartreuse;
+
+}
+.a{
+
+    margin: 50px;
+    border: 10px solid chocolate;
+    padding: 10px;
+    text-align:justify;
+    font-size: 20px;
+    color: rgb(25, 77, 14);
+
+}
+.b{
+
+    background-color: rgb(178, 161, 139);
+    margin: 50px;
+    border: 1px solid chocolate;
+    padding: 10px;
+
+
+}
+.c{
+
+    background-color: cornsilk;
+    margin: 50px;
+    border: 1px solid rgb(41, 3, 255);
+    padding: 10px;
+
+
+}
+.d{
+
+    background-color: aquamarine;
+   margin   : 50px;
+    border: 1px solid rgb(255, 3, 137);
+    padding: 10px;
+
+
+}
+#sporsho{
+
+    margin: 50px;
+    border: 10px solid chocolate;
+    padding: 10px;
+
+
+}
+
+.open-sans{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.primary{
+color: #FD6E0A;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #474747;
+
+}
+nav ul li{
+    margin-right: 51px;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.button-color{
+    background-color: #FD6E0A;
+    color: #ffffff;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 18px 35px;
+}
+
