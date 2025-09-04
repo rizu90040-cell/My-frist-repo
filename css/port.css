@@ -1,0 +1,227 @@
+.open-sans{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.first-color {
+    color: #FD6E0A;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+nav ul li a{
+text-decoration: none;
+color: #474747;
+
+}
+nav ul li {
+   margin-right: 51px;
+
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.contact {
+ color: #FD6E0A;
+ border: 1px solid #FD6E0A;
+ border-radius: 5px;
+ font-size: 20px;
+ font-weight:bold;
+ padding: 18px 35px;
+ background-color: white;
+
+
+
+
+}
+.button-color{
+    
+    background-color: #FD6E0A;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 18px 35px;
+
+}
+.top {
+
+    justify-content: space-between;
+    display: flex;
+
+}
+.header {
+background-image:url("../portfolio-resources/images/developer.png"),url("../portfolio-resources/images/header_bg.png");
+background-repeat: no-repeat;
+background-position: top left, bottom right;
+background-color: #FFF8F3;
+}
+.mary {
+    margin-left: 200px;
+    font-weight: 800;
+    font-size: 45px;
+}
+.mary-description {
+    margin-left: 200px;
+    
+}
+.para {
+   
+    font-weight: 400;
+    font-size: 18px;
+
+}
+.hardy{
+font-weight: bold;
+font-size: 85px;
+}
+.greeting{
+color: #474747;
+font-weight: 600;
+font-size: 45px;
+
+}
+.about {
+
+    display: flex;
+    justify-content: space-around;
+}
+.about-me {
+
+    text-align: center;
+    padding: 270px;
+    background-color: #FFF8F3;
+    margin: 100px 300px 300px 300px;
+
+}
+.what-i-do {
+
+    text-align: center;
+    padding: 270px;
+    background-color: #FFF8F3;
+    margin: 100px 300px 300px 300px;
+
+}
+.open-sans{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.first-color {
+    color: #FD6E0A;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+nav ul li a{
+text-decoration: none;
+color: #474747;
+
+}
+nav ul li {
+   margin-right: 51px;
+
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.contact {
+ color: #FD6E0A;
+ border: 1px solid #FD6E0A;
+ border-radius: 5px;
+ font-size: 20px;
+ font-weight:bold;
+ padding: 18px 35px;
+ background-color: white;
+
+
+
+
+}
+.button-color{
+    
+    background-color: #FD6E0A;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 18px 35px;
+
+}
+.top {
+
+    justify-content: space-between;
+    display: flex;
+
+}
+.header {
+background-image:url('../portfolio-resources-main/')
+background-repeat: no-repeat;
+background-position: top left, bottom right;
+background-color: #FFF8F3;
+}
+.mary {
+    margin-left: 200px;
+    font-weight: 800;
+    font-size: 45px;
+}
+.mary-description {
+    margin-left: 200px;
+    font-size: 18px;
+}
+.para {
+    color: #757575;
+    font-weight: 400;
+    font-size: 18px;
+
+}
+.hardy{
+font-weight: bold;
+font-size: 85px;
+
+}
+.greeting{
+color: #474747;
+font-weight: 600;
+font-size: 45px;
+
+}
+.about {
+
+    display: flex;
+    justify-content: space-around;
+}
+.about-me {
+
+    text-align: center;
+    padding: 270px;
+    background-color: #FFF8F3;
+    margin: 100px 300px 300px 300px;
+
+}
+.what-i-do {
+
+    text-align: center;
+    padding: 270px;
+    background-color: #FFF8F3;
+    margin: 100px 300px 300px 300px;
+
+}

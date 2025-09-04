@@ -1,5 +1,5 @@
 p{
-background-color: aqua;
+
 font-style: italic;
 font-weight: bold;
 
@@ -83,7 +83,6 @@ transform: rotate(180deg);
 
 
 }
-
 .open-sans{
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
@@ -92,36 +91,159 @@ transform: rotate(180deg);
   font-variation-settings:
     "wdth" 100;
 }
-
-.primary{
-color: #FD6E0A;
+.name{
+    color: #FD6E0A;
 }
-
 nav ul {
     list-style: none;
     display: flex;
     align-items: center;
 }
 nav ul li a{
-    text-decoration: none;
-    color: #474747;
+text-decoration: none;
+color: #474747;
 
 }
-nav ul li{
-    margin-right: 51px;
+nav ul li {
+   margin-right: 51px;
+
 }
 nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
+
 }
-.button-color{
+.button-colors{
+    
     background-color: #FD6E0A;
-    color: #ffffff;
+    color: white;
     border-radius: 5px;
     border: none;
     font-size: 20px;
     font-weight: bold;
     padding: 18px 35px;
+
+}
+.header{
+    background-image: url('../portfolio-resources-main/images/developer.png'),url('../portfolio-resources-main/images/header_bg.png');
+    background-position: top left, bottom right;
+    background-repeat: no-repeat;
+    background-color: #FFF8F3;
+}
+.top{
+
+    justify-content: space-between;
+    display: flex;
+
+}
+.mary {
+    margin-left: 200px;
+    font-weight: 800;
+    font-size: 45px;
+}
+.mary-description{
+    margin-left: 200px;
+}
+.greeting{
+
+font-weight: 600;
+font-size: 45px;
+
+}
+.para {
+    font-weight: 400;
+    font-size: 18px;
+    opacity: 0.6;
+}
+.hardy{
+font-weight: bold;
+font-size: 85px;
+}
+.about {
+    display: flex;
+    justify-content: space-around;
+    font-size: small;
+}
+.about-me {
+    text-align: center;
+    padding: 270px;
+    background-color: #FFF8F3;
+    margin: 100px 300px 300px 300px;
 }
 
+.what {
+    text-align: center;
+}
+
+.whatido {
+
+    padding: 270px;
+    margin: 100px 300px 300px 300px;
+
+}
+
+.box2{
+    display: flex;
+   font-size: medium;
+
+}
+
+.around{
+    justify-content: space-around;
+    background-color: #fff;
+    margin: 20px;
+    padding: 20px;
+}
+.ha {
+    text-align: center;
+    margin: 80px;
+}
+.pro {
+    display: inline-block;
+    border-bottom: 4px solid rgb(193, 185, 185);
+    padding-bottom: 15px;
+    color: rgb(107, 102, 102);
+}
+.pr {
+    color: rgb(107, 102, 102);
+}
+.edu {
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+.education {
+    margin: 20px;
+}
+.hydra {
+    color: rgb(107, 102, 102);
+}
+.butoo {
+    text-align: center;
+}
+.cvv {
+    background-color: rgb(238, 117, 24);
+    padding: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10%;
+    font-size: 20px;
+    border: none;
+    margin: 30px;
+}
+.area {
+    display: flex;
+    margin: 100px;
+    padding-left: 250px;
+}
+.lets {
+    margin: 30px;
+    padding: 40px;
+}
+.footer-area {
+    background-color: antiquewhite;
+    padding: 40px;
+
+}
